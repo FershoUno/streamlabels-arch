@@ -1,7 +1,7 @@
 # streamlabels-arch
 
 
-Paquete Streamlabels para Arch y derivados 
+Paquete Streamlabels v.0.3.8 para Arch y derivados 
 
 
 # Descripción
@@ -45,4 +45,10 @@ eb296c2212b3a4941c3886c38cdfc636  streamlabels-0.3.8-1-x86_64.pkg.tar.gz
 
 ```
 
+# Captura de pantalla
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FershoUno/streamlabels-arch/main/ss-streamlabels-v.0.3.8.png" alt="screenshot" align="center">
+</p>
 
